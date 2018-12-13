@@ -1,0 +1,1 @@
+In this assignment, you will create a Java program to implement the Pythagorean Theorem.

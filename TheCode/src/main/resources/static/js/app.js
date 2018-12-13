@@ -1,0 +1,1 @@
+alert("You must train harder!");

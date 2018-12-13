@@ -1,0 +1,12 @@
+Tasks:
+Create an animal model containing the name, breed, and weight fields.
+
+Create a pet interface containing the String showAffection() signature
+
+Extend the animal model and implement the pet interface with both cat and dog models
+
+For the dog implementation of showAffection have different outputs depending on weight.
+
+Submit forms to two different routes. Process using two servlets and serve using two JSPs.
+
+Use the JSTL to render pages.

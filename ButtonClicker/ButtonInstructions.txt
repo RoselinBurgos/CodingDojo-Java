@@ -1,0 +1,4 @@
+Tasks:
+Create a Counter servlet that will render a JSP with the information from the wireframe.
+
+Use Session to keep track of how many times a user clicks on your page.

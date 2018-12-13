@@ -1,0 +1,8 @@
+Tasks:
+Allow the user to pass the height and width via query parameters and draw a checkerboard accordingly.
+
+Have your JSP handle the query parameters directly. You do not need to create a servlet.
+
+Use an external CSS file. Do not use inline or internal styling.
+
+Check the values of the query parameters inside of your JSP file.
